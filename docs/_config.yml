@@ -17,7 +17,7 @@ title: FIOS
 email: jozdortraz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for Front-End Interviews. That's why we call it FIOS(Front-End Interview Oriented System).
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/FIOS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jozdortraz
 github_username:  Jozdortraz
