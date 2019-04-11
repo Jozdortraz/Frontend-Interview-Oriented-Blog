@@ -1,0 +1,39 @@
+.Homepage {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: $background-primary;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  &__title, &__sub-title {
+    @include text-shadow-border;
+    color: $text-inverse;
+    text-align: center;
+  }
+  &__title {
+    color: $text-inverse;
+    text-align: center;
+    font-size: 2 * $font--xxxlarge;
+  }
+  &__sub-title {
+    line-height: 1.5;
+    color: $text-inverse;
+    text-align: center;
+    font-weight: normal;
+    font-size: $font--xlarge;
+  }
+  .floating-block {
+    position: absolute;
+    width: $space--large * 10;
+    height: $space--large * 10;
+    top: -100%;
+    left: -100%;
+    box-shadow: 0 0 1rem 0px #5b5b5b;
+    border-radius: 50%;
+    transition: box-shadow .5s ease, 
+                top .5s ease,
+                left .5s ease;
+  }
+}
