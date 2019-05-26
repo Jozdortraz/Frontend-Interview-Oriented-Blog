@@ -23,19 +23,6 @@ export class AppComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.router.config.unshift(
-      ...this.pageService.getPosts().map(p => {
-        let permalink = p.permalink;
-        permalink = permalink.startsWith('/') ? permalink.substring(1) : permalink;
-        permalink = permalink.endsWith('/') ? permalink.substr(0, permalink.length - 1) : permalink;
-        return {
-          path: permalink,
-          component: PageComponent,
-          pathMatch: 'full'
-        };
-      })
-    );
-
     document.body.addEventListener('scroll', () => {
       if (document.body.scrollTop > 320 && !this.isStickyHeader) {
         this.isStickyHeader = true;
