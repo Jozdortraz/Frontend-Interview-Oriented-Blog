@@ -1,4 +1,7 @@
-lacerta-blog/**/*
-docs/
+lacerta-blog
+docs
 _site
 .idea
+dev.sh
+README.md
+.gitignore

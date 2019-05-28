@@ -7,8 +7,12 @@ services:
     build:
       context: ./
       dockerfile: Dockerfile.docker.dev
+
     ports:
       - 4000:4000
     volumes:
-      - ./:/usr/src/app/
+      - ./_layouts:/usr/src/app/_layouts
+      - ./_pages:/usr/src/app/_pages
+      - ./_posts:/usr/src/app/_posts
+      - ./frontend-interview:/usr/src/app/frontend-interview
 

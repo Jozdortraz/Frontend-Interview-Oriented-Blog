@@ -33,8 +33,8 @@ permalink: /
     - 前端面试需要准备什么
     - [如何找工作]({{ site.baseurl }}{% link frontend-interview/interview/interview-preparation/job-seeking.md %})
     - 简历内容应该写什么
-    - 我之前的教育经历不是很理想，怎么办
-    - 我之前的工作经历不是很理想，怎么办
+        - 我之前的教育经历不是很理想，怎么办
+        - 我之前的工作经历不是很理想，怎么办
     - 准备过程中需不需要花精力在数据结构与算法上
     - 我只在国内找工作，需不需要投入经历在英语上
     
@@ -293,6 +293,11 @@ permalink: /
 - `<ng-content>`
 - AOT
 - Digest Cycle
+- Form Validation
+	- Custom Vaidator
+	- Cross Field Validation
+	- Async Validation
+	- Control status CSS classes
 - Dependency Injection
 - Life Cycle Hooks
 - Dirty Checking
@@ -338,50 +343,51 @@ permalink: /
     - Passport.JS
 - Nodejs as a middle tier
 
-## Database
-- MySQL
-	- SQL
-	- Disaster Recovery
-	- Read Write Splitting
-	- MyISAM
-	- InnoDB
-	- Information_Schema
-	- Security
-		- SQL Injection
-	- Index
-		- Optimization
-	- Collation
-	- View
-	- Trigger
-	- Primary Key & Foreign Key
-	- Procedure
-	- Transactions
-		- Rollback
-	- Lock
-		- Optimization
-	- Permission
-	- Optimization
-		- SQL Optimization
-	- MISC
-		- LAST_INSERT_ID
-		- Data Integrity
+## MySQL
+- SQL
+- Disaster Recovery
+- Read Write Splitting
+- MyISAM
+- InnoDB
+- Information_Schema
+- Security
+    - SQL Injection
+- Index
+    - Optimization
+- Collation
+- View
+- Trigger
+- Primary Key & Foreign Key
+- Procedure
+- Transactions
+    - Rollback
+- Lock
+    - Optimization
+- Permission
+- Optimization
+    - SQL Optimization
+- MISC
+    - LAST_INSERT_ID
+    - Data Integrity
     
-- Redis
-	- I/O
-	- Data Type
-	- Sentinel
-	- Replication
-	- Transaction
-	- Persistence
-		- RDB 
-		- AOF
-	- Cluster
-		- Codis
-	- Redis vs Memcache
-	- Read Write Splitting
-	- Optimization
-	
-- MongoDB
+## Redis
+- I/O
+- Data Type
+- Sentinel
+- Replication
+- Transaction
+- Persistence
+	- RDB 
+	- AOF
+- Cluster
+	- Codis
+- Redis vs Memcached
+- Read Write Splitting
+- Optimization
+- Expire Policy
+	- Active
+	- Passive
+	- LRU Algorithm
 
 
 ## Git
