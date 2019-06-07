@@ -2,10 +2,18 @@
 .page-header {
   width: 100%;
   height: $space--xxlarge * 5;
-  background: $background-primary;
+  // background: $background-primary;
+  background-color: black;
+  background-image: url("../assets/images/BG1.png");
+  background-origin: border-box;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  background-attachment: fixed;
   padding: $space--xxlarge + $space--medium $space--xxlarge + $space--medium $space--medium $space--xxlarge +
     $space--medium;
   transition: all 0.125s ease;
+  position: relative;
   .project-name,
   .project-tagline {
     color: $text-white;
@@ -117,7 +125,7 @@
         flex-direction: column;
         flex-wrap: nowrap;
         align-items: stretch;
-        background-color: $primary;
+        background-color: $background-primary;
         display: none;
         .navigation-list-item {
           text-align: right;

@@ -20,6 +20,11 @@
     }
     a[href] {
       color: $secondary;
+      transition: background-color 0.125s ease;
+      border-radius: $border-radius--small;
+      &:hover {
+        background-color: $shadow-01;
+      }
     }
   }
 }
