@@ -208,7 +208,7 @@ permalink: /
 - Ajax
 - Deep Copy vs. Shallow Copy
 - Process
-- TCP
+- Throttle & Debounce
 - Optimization
 - CORS
 - Browser && DOM
@@ -226,6 +226,7 @@ permalink: /
 - CORS
 - Page Rendering
     - 浏览器地址栏输入网址，敲回车后，到页面展示在浏览器里，这之间，发生了什么
+    - 加载JS与CSS会阻塞浏览器的渲染吗？下载JS以及CSS呢？
 - V8
 - Image Optimization
 - Browser Engine
@@ -394,6 +395,8 @@ permalink: /
 - Read Write Splitting
 - MyISAM
 - InnoDB
+- MYSQL Proxy
+- Master & Slave
 - Information_Schema
 - Security
     - SQL Injection
@@ -495,6 +498,8 @@ permalink: /
 - Wechat
 - 12306
 - Uber
+- Twitch
+- Youtube
 
 
 ## Testing
@@ -505,7 +510,7 @@ permalink: /
 	- Unit Test Principals
 - UI Test
 - Automation Test
-
+- Code Coverage
 
 
 ## Backend
