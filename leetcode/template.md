@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LeetCode - 190. Reverse Bits
-permalink: /leetcode/p190
+permalink: /leetcode/template
 ---
 # 190. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
