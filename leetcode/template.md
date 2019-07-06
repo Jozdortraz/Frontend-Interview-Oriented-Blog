@@ -3,10 +3,10 @@ layout: default
 title: LeetCode - 190. Reverse Bits
 permalink: /leetcode/template
 ---
-# 190. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+# []()
 
 ## 题目
-![P190]({{ site.baseurl }}/assets/leetcode/p190.png)
+![problem]({{ site.baseurl }}/assets/leetcode/p.png)
 
 
 ## 题意分析

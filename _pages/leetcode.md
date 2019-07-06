@@ -10,6 +10,8 @@ permalink: /leetcode/
 
 部分题目会在多个栏目出现，此时，请按照栏目分类使用对应的方法实现。
 
+当某个方法或技巧第一次出现时，我们将详细解释该方法的原理，在之后的题目中如果使用了对应方法，我们将不解释思路，直接附上出现该方法的链接供参考。
+
 
 ## 数学
 
@@ -19,5 +21,10 @@ permalink: /leetcode/
 
 ### 位运算
 - [190. Reverse Bits]({{ site.baseurl }}{% link leetcode/p190.md %})
+- [191. Number of 1 Bits]({{ site.baseurl }}{% link leetcode/p191.md %})
+- [231. Power of Two]({{ site.baseurl }}{% link leetcode/p231.md %})
+- [342. Power of Four]({{ site.baseurl }}{% link leetcode/p342.md %})
 
+### 未分类
+- [326. Power of Three]({{ site.baseurl }}{% link leetcode/p326.md %})
 
