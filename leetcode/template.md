@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LeetCode - 190. Reverse Bits
-permalink: /leetcode/template
+permalink: /leetcode/p
 ---
 # []()
 
@@ -15,18 +15,26 @@ permalink: /leetcode/template
 
 ## 解法I
 
-## 解法I - 实现
+<details markdown="1">
+<summary>实现</summary>
+
 ```java
 ```
+</details>
 
 ## 解法II
 
-## 解法II - 实现
+<details markdown="1">
+<summary>实现</summary>
+
 ```java
 ```
-
+</details>
 ## 解法III
 
-## 解法III - 实现
+<details markdown="1">
+<summary>实现</summary>
+
 ```java
 ```
+</details>

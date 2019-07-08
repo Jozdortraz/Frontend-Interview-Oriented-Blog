@@ -340,7 +340,7 @@ permalink: /
 - AOT
 - Digest Cycle
 - Form Validation
-	- Custom Vaidator
+	- Custom Validator
 	- Cross Field Validation
 	- Async Validation
 	- Control status CSS classes
@@ -361,6 +361,8 @@ permalink: /
 - Service Worker
 - Hooks
 - Semantics
+- setState
+- Redux
 
 ## Vue
 - Life Cycle
@@ -368,6 +370,8 @@ permalink: /
 - Component Interaction
 - Proxy
 - Vue Reactivity System
+- VNode
+- Two Way Binding
 - Vuex
 	- Vuex vs. Mobx vs. Redux
 	- Data Flow
