@@ -16,7 +16,7 @@ permalink: /leetcode/p
 ## 解法I
 
 <details markdown="1">
-<summary>实现</summary>
+<summary markdown="span">实现</summary>
 
 ```java
 ```
@@ -25,7 +25,7 @@ permalink: /leetcode/p
 ## 解法II
 
 <details markdown="1">
-<summary>实现</summary>
+<summary markdown="span">实现</summary>
 
 ```java
 ```
@@ -33,7 +33,7 @@ permalink: /leetcode/p
 ## 解法III
 
 <details markdown="1">
-<summary>实现</summary>
+<summary markdown="span">实现</summary>
 
 ```java
 ```
