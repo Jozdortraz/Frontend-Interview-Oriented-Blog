@@ -12,6 +12,8 @@ permalink: /leetcode/
 
 当某个方法或技巧第一次出现时，我们将详细解释该方法的原理，在之后的题目中如果使用了对应方法，我们将不解释思路，直接附上出现该方法的链接供参考。
 
+我们使用的语言主要以`Java`为主，不使用`Python`、`Javascript`、`Lua`等语言的原因是`Python`等脚本语言里面的语法糖和库函数太多，不利于算法底层原理的学习；不使用C/C++的原因是，这个答案的主要面向群体不擅长使用`C/C++`。
+
 
 ## 做题通用方法
 1. 读题
@@ -19,6 +21,15 @@ permalink: /leetcode/
 3. 找出边界情况
 4. 实现（如实在无思路，可使用暴力法或直觉算法实现）
 5. 优化剪枝
+
+## 如何复习
+1. 读题
+2. 在脑海中想出这道题的所有思路（如果没有思路，先看答案）
+3. 用笔实现，不要用电脑
+4. 用电脑再敲一遍，不要用编译器，直接用系统记事本如notepad
+5. 运行，调试bug，看答案，改错，过几天重新做
+
+**PS. 看完答案感觉自己会了，跟LeetCode一次过，跟在白板上书写一次过是完全不同的三件事情**
 
 
 ## 数学
@@ -41,3 +52,6 @@ permalink: /leetcode/
 
 ## 递归
 - [509. Fibonacci Number]({{ site.baseurl }}{% link leetcode/p509.md %})
+
+## 排序
+- [349. Intersection of Two Arrays & 350. Intersection of Two Arrays II]({{ site.baseurl }}{% link leetcode/p349-p350.md %})
