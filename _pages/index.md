@@ -62,10 +62,13 @@ permalink: /
 - Searching
 	- DFS
 	- BFS
-	- Binary Search
+	- [Binary Search]({{ site.baseurl }}{% link frontend-interview/algorithm/search/binary-search.md %})
 - Graph
 - Tree
 - Heap
+
+## Computer Science Basics
+- [Binary]({{ site.baseurl }}{% link frontend-interview/cs-basics/binary.md %})
 
 ## HTML
 - [HTML History]({{ site.baseurl }}{% link frontend-interview/html/html-history.md %})
@@ -313,7 +316,6 @@ permalink: /
 - Proxy vs. Reverse Proxy
 - Static Files Serving
 - Rewrite
-- 
 
 
 ## SEO

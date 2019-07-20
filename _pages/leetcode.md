@@ -12,6 +12,8 @@ permalink: /leetcode/
 
 当某个方法或技巧第一次出现时，我们将详细解释该方法的原理，在之后的题目中如果使用了对应方法，我们将不解释思路，直接附上出现该方法的链接供参考。
 
+以下标题的链接，如果可以点击，则为该分类的相关概念专题，如果对相关概念不熟悉，可以先阅读该专题的基础知识。
+
 我们使用的语言主要以`Java`为主，不使用`Python`、`Javascript`、`Lua`等语言的原因是`Python`等脚本语言里面的语法糖和库函数太多，不利于算法底层原理的学习；不使用C/C++的原因是，这个答案的主要面向群体不擅长使用`C/C++`。
 
 
@@ -38,7 +40,7 @@ permalink: /leetcode/
 - [7. Reverse Integer]({{ site.baseurl }}{% link leetcode/p7.md %})
 - [190. Reverse Bits]({{ site.baseurl }}{% link leetcode/p190.md %})
 
-### 位运算
+### [位运算]({{ site.baseurl }}{% link frontend-interview/cs-basics/binary.md %})
 - [190. Reverse Bits]({{ site.baseurl }}{% link leetcode/p190.md %})
 - [191. Number of 1 Bits]({{ site.baseurl }}{% link leetcode/p191.md %})
 - [231. Power of Two]({{ site.baseurl }}{% link leetcode/p231.md %})
@@ -53,5 +55,12 @@ permalink: /leetcode/
 ## 递归
 - [509. Fibonacci Number]({{ site.baseurl }}{% link leetcode/p509.md %})
 
-## 排序
+## 搜索
 - [349. Intersection of Two Arrays & 350. Intersection of Two Arrays II]({{ site.baseurl }}{% link leetcode/p349-p350.md %})
+
+### [二分搜索]({{ site.baseurl }}{% link frontend-interview/algorithm/search/binary-search.md %})
+- [704. Binary Search]({{ site.baseurl }}{% link leetcode/p704.md %})
+
+
+
+
