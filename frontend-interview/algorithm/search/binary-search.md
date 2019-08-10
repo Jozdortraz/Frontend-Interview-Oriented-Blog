@@ -90,8 +90,6 @@ class Solution {
 设P(N)成立，下面证明P(N + 1)成立：
 
 
-
-
 ```
 
 
