@@ -4,7 +4,7 @@ title: Dream
 permalink: /dream
 ---
 
-今天是2019年8月10日，我们从今天开始进行为期3年（暂定）的Google/IBM/Microsoft Japan面试复习之路。
+今天是2019年9月9日，我们从今天开始进行为期3年（暂定）的Google/IBM/Microsoft Japan面试复习之路。
 
 首先我们来看一眼 Job Description:
 
@@ -87,14 +87,13 @@ permalink: /dream
     
 因笔者平日还要工作，我们的复（yu)习并不会特别密集，有需要的小伙伴可以自行把控学习进度。
 
-# 20190812 - 209190818
-- [Linear Algebra][4] 
+# 20190909 - 209190815
+- [Linear Algebra][4]
     - Chapter I
     - Chapter II
 - Algorithm
     - [GeekTime 1 - 22][8]
     - [LeetCode](https://leetcode.com/problemset/all/?topicSlugs=linked-list)
-        - 2LeetCode LeetCode LeetCode , 206, 237, 21, 83, 141, 234, 203, 160, 707, 1019, 369, 817, 426, 445, 328, 725, 24
     - [Princeton Algorithm Week I][2]
 - Compiler
     - [Standford Compilers Week I][7]
