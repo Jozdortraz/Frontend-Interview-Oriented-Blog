@@ -15,4 +15,5 @@ services:
       - ./_pages:/usr/src/app/_pages
       - ./_posts:/usr/src/app/_posts
       - ./frontend-interview:/usr/src/app/frontend-interview
+      - ./leetcode:/usr/src/app/leetcode
 

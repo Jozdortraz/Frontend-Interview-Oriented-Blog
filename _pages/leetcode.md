@@ -61,6 +61,6 @@ permalink: /leetcode/
 ### [二分搜索]({{ site.baseurl }}{% link frontend-interview/algorithm/search/binary-search.md %})
 - [704. Binary Search]({{ site.baseurl }}{% link leetcode/p704.md %})
 
-
-
-
+## 链表
+- [234. Palindrome Linked List]({{ site.baseurl }}{% link leetcode/p234.md %})
+- [1019. Next Greater Node In Linked List]({{ site.baseurl }}{% link leetcode/p1019.md %})

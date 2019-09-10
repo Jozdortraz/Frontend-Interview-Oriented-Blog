@@ -1,24 +1,16 @@
 ---
 layout: default
-title: LeetCode - 190. Reverse Bits
+title: LeetCode - XXX. XXXX
 permalink: /leetcode/p
 ---
 # []()
-
-## 题目
-![problem]({{ site.baseurl }}/assets/leetcode/p.png)
-
-
-## 题意分析
-
-## 本题考点
 
 ## 解法I
 
 <details markdown="1">
 <summary markdown="span">实现</summary>
 
-```java
+```javascript
 ```
 </details>
 
@@ -27,14 +19,15 @@ permalink: /leetcode/p
 <details markdown="1">
 <summary markdown="span">实现</summary>
 
-```java
+```javascript
 ```
 </details>
+
 ## 解法III
 
 <details markdown="1">
 <summary markdown="span">实现</summary>
 
-```java
+```javascript
 ```
 </details>
