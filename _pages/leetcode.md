@@ -64,3 +64,8 @@ permalink: /leetcode/
 ## 链表
 - [234. Palindrome Linked List]({{ site.baseurl }}{% link leetcode/p234.md %})
 - [1019. Next Greater Node In Linked List]({{ site.baseurl }}{% link leetcode/p1019.md %})
+- [876. Middle of the Linked List]({{ site.baseurl }}{% link leetcode/p876.md %})
+- [206. Reverse Linked List]({{ site.baseurl }}{% link leetcode/p206.md %})
+- [237. Delete Node in a Linked List]({{ site.baseurl }}{% link leetcode/p237.md %})
+- [21. Merge Two Sorted Lists]({{ site.baseurl }}{% link leetcode/p21.md %})
+- [83. Remove Duplicates from Sorted List]({{ site.baseurl }}{% link leetcode/p83.md %})
