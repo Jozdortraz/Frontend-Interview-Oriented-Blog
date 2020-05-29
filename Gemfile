@@ -15,7 +15,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "github-pages"
   gem 'jekyll-compose'
-  gem "jekyll-github-metadata"
   gem 'jekyll-include-cache'
 end
 

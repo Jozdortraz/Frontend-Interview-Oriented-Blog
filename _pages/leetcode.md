@@ -61,6 +61,16 @@ permalink: /leetcode/
 ### [二分搜索]({{ site.baseurl }}{% link frontend-interview/algorithm/search/binary-search.md %})
 - [704. Binary Search]({{ site.baseurl }}{% link leetcode/p704.md %})
 
-
-
-
+## 链表
+- [234. Palindrome Linked List]({{ site.baseurl }}{% link leetcode/p234.md %})
+- [1019. Next Greater Node In Linked List]({{ site.baseurl }}{% link leetcode/p1019.md %})
+- [876. Middle of the Linked List]({{ site.baseurl }}{% link leetcode/p876.md %})
+- [206. Reverse Linked List]({{ site.baseurl }}{% link leetcode/p206.md %})
+- [237. Delete Node in a Linked List]({{ site.baseurl }}{% link leetcode/p237.md %})
+- [21. Merge Two Sorted Lists]({{ site.baseurl }}{% link leetcode/p21.md %})
+- [83. Remove Duplicates from Sorted List]({{ site.baseurl }}{% link leetcode/p83.md %})
+- [82. Remove Duplicates from Sorted List II]({{ site.baseurl }}{% link leetcode/p82.md %})
+328 455
+203 707
+141 142 160 19 148 725
+61 87 92 143 445

@@ -39,15 +39,23 @@ permalink: /dream
 - Preferred Professional and Technical Expertise
 - Ability to work in full stack teams and experience with integrating front-end code within application frameworks (ASP.net, **Java** or PHP) and ability to consume data and services by integrating with **REST** services
 
+## Microsoft Frontend Developer
+- Strong expertise in **web application**, **JavaScript**, **Typescript**, **HTML**, **CSS** and at least one popular web frontend framework like **Angular**/**React**/**Vue** or equivalent
+- Expertise in building **scalable web application** and **reusable modules**
+- Familiar with frontend **test framework**, **build pipelines** and **tools**
+- Experience in **backend service design** and **development**, **web API**, **MVC design pattern**, etc.
+- Well understanding of Internet protocols: TCP/IP, HTTP, WebSocket and demonstrated web performance tuning skills
+
 根据JD，关于本计划的重点如下：
 - Web Application Development
     - Webpack
     - React
-    - Bootstrap
     - Javascript, Typescript, ES5, ES6
-    - Grunt
     - HTML
     - CSS
+    - Scalable WebApps
+    - Testing
+    - Building pipeline
 - Unix/Linux Environments
     - C
 - Mobile Application Development
@@ -57,7 +65,7 @@ permalink: /dream
     - [The Complete Networking Fundamentals Course. Your CCNA start][3]
 - Developing Large Software Systems
     - Java
-- Japanese
+    - Nodejs
 
 此外为了增加基础知识，增加面试成功率，我们还会涉及到以下内容：
 - Algorithm
@@ -87,7 +95,7 @@ permalink: /dream
     
 因笔者平日还要工作，我们的复（yu)习并不会特别密集，有需要的小伙伴可以自行把控学习进度。
 
-# 20190909 - 209190815
+# 20190909 - 209190915
 - [Linear Algebra][4]
     - Chapter I
     - Chapter II

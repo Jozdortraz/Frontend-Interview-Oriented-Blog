@@ -25,14 +25,13 @@ github_username:  jozdortraz
 github: [metadata]
 repository: draupnirstudio/Lacerta
 
-include: ['_pages', 'frontend-interview']
+include: ['_pages', 'frontend-interview', 'interview-preparation']
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-  - jekyll-github-metadata
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
